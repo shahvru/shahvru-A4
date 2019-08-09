@@ -1,0 +1,8 @@
+{
+    "dinner": 
+      [
+          {"food": "Junior chicken","price": "$ 2.00", "calories": "200"},
+          {"food": "Big Mac","price": "$ 6.50", "calories": "300"},
+          {"food": "McChicken","price": "$ 5.50", "calories": "300"}
+    ]
+  }

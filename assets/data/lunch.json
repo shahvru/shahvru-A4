@@ -1,0 +1,8 @@
+{
+    "lunch": 
+      [
+          {"food": "Hamburger","price": "$ 2.00", "calories": "200"},
+          {"food": "Cheeseburger","price": "$ 2.00", "calories": "200"},
+          {"food": "Double Cheeseburger","price": "$ 3.00", "calories": "200"}
+    ]
+  }

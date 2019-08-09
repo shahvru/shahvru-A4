@@ -1,0 +1,8 @@
+{
+    "breakfast": 
+      [
+          {"food": "Sausage and egg Mcmuffin","price": "$ 5.50", "calories": "200"},
+          {"food": "Bacon and egg Mcmuffin","price": "$ 5.50", "calories": "200"},
+          {"food": "Egg Mcmuffin","price": "$ 4.50", "calories": "200"}
+    ]
+  }
